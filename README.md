@@ -4,7 +4,7 @@
 
 # Building Autonomous AI Security Platforms
 
-**Secure Software Engineer · Open Source Builder · Founder @ [ProgVision](https://progvision.in)**
+**Secure Software Engineer · Open Source Builder · Founder @ [ProgVision](https://progvision.online)**
 
 🛡️ AI Security &nbsp; 🤖 Multi-Agent Systems &nbsp; ⚡ Open Source &nbsp; 🚀 Full-Stack Engineering
 
@@ -565,6 +565,6 @@
 
 [![Support](https://img.shields.io/badge/Support-Razorpay-07263E?style=for-the-badge&logo=razorpay)](https://razorpay.me/@ProgVision)
 
-*Built with passion by [P Ganesh Krishna Reddy](https://github.com/ganeshkrishnareddy) at [ProgVision](https://progvision.in)*
+*Built with passion by [P Ganesh Krishna Reddy](https://github.com/ganeshkrishnareddy) at [ProgVision](https://progvision.online)*
 
 </div>
